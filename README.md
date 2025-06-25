@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Pukale</h1>
 <h3 align="center">Passionate Programmer and Web Developer</h3>
 
-- 🌱 I’m currently learning **Reactjs,Django**
+- 🌱 I’m currently learning **ASP.NET,Angular 17**
 
 - 💬 Ask me about **Data Structures and Algorithm ,JavaScript , C++**
 
